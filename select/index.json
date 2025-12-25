@@ -1,112 +1,48 @@
 {
   "version": 1,
-  "base_track": "てらてら",
+  "base_track": "てらてら（feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク）",
   "base_artist": "Leo/need",
-  "createdAt": "2025-12-14T05:10:02.343523Z",
+  "createdAt": "2025-12-25T08:00:44.768680Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
       "title": "てらてら (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
-      "artist": "Leo/need",
+      "artist": "Leo",
       "has_synced": true,
-      "path": "select/01_てらてら_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.lrc"
+      "path": "select/01_てらてら_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "てらてら",
-      "artist": "Leo/need feat.星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク",
+      "title": "てらてら (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
       "has_synced": true,
-      "path": "select/02_てらてら_Leo_need_feat.星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク.lrc"
+      "path": "select/02_てらてら_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "てらてら - VOCALOID ver",
-      "artist": "和田たけあき",
+      "title": "てらてら (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo／need",
       "has_synced": true,
-      "path": "select/03_てらてら_-_VOCALOID_ver_和田たけあき.lrc"
+      "path": "select/03_てらてら_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "てらてら",
-      "artist": "和田たけあき",
-      "has_synced": true,
-      "path": "select/04_てらてら_和田たけあき.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "てらてら (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
-      "artist": "Leo",
-      "has_synced": true,
-      "path": "select/05_てらてら_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "てらてら - VOCALOID ver.",
-      "artist": "和田たけあき",
-      "has_synced": true,
-      "path": "select/06_てらてら_-_VOCALOID_ver._和田たけあき.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
       "title": "てらてら (feat. 星乃一歌 & 天馬咲希 & 望月穂波 & 日野森志歩 & 初音ミク)",
       "artist": "Leo need",
       "has_synced": true,
-      "path": "select/07_てらてら_(feat._星乃一歌_&_天馬咲希_&_望月穂波_&_日野森志歩_&_初音ミク)_Leo_need.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "てらてら - VOCALOID ver",
-      "artist": "和田たけあき",
-      "has_synced": true,
-      "path": "select/08_てらてら_-_VOCALOID_ver_和田たけあき.lrc"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "てらてら",
-      "artist": "Leo／need",
-      "has_synced": true,
-      "path": "select/09_てらてら_Leo_need.lrc"
-    },
-    {
-      "id": "lrclib_10",
-      "source": "lrclib",
-      "title": "てらてら",
-      "artist": "Leo/need feat.星乃一歌&天馬咲希&望月穂波&日野森志歩&Hatsune Miku",
-      "has_synced": true,
-      "path": "select/10_てらてら_Leo_need_feat.星乃一歌&天馬咲希&望月穂波&日野森志歩&Hatsune_Miku.lrc"
-    },
-    {
-      "id": "lrclib_11",
-      "source": "lrclib",
-      "title": "てらてら",
-      "artist": "Leo/need (野口瑠璃子, 礒部花凜, 上田麗奈, 中島由貴)",
-      "has_synced": true,
-      "path": "select/11_てらてら_Leo_need_(野口瑠璃子,_礒部花凜,_上田麗奈,_中島由貴).lrc"
-    },
-    {
-      "id": "lrclib_12",
-      "source": "lrclib",
-      "title": "てらてら (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
-      "artist": "Leo／need",
-      "has_synced": true,
-      "path": "select/12_てらてら_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.lrc"
+      "path": "select/04_てらてら_(feat._星乃一歌_&_天馬咲希_&_望月穂波_&_日野森志歩_&_初音ミク)_Leo_need.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "てらてら",
+      "title": "てらてら (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
       "artist": "Leo/need",
       "has_synced": false,
-      "path": "select/pl_01_てらてら_Leo_need.txt"
+      "path": "select/pl_01_てらてら_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.txt"
     }
   ]
 }
